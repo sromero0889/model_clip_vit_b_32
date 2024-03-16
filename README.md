@@ -16,17 +16,17 @@ repo
 - Full: Text + Image Model Data
 
 ```
-https://raw.githubusercontent.com/sromero0889/clip_vit_b_32/blob/main/full/model.safetensors
+https://github.com/sromero0889/model_clip_vit_b_32/raw/main/full/model.safetensors
 ```
 
 - Image: Image Model Data (Reduced file)
 
 ```
-https://raw.githubusercontent.com/sromero0889/clip_vit_b_32/blob/main/image/model.safetensors
+https://github.com/sromero0889/model_clip_vit_b_32/raw/main/image/model.safetensors
 ```
 
 - Text: Text Model Data (Reduced file)
 
 ```
-https://raw.githubusercontent.com/sromero0889/clip_vit_b_32/blob/main/text/model.safetensors
+https://github.com/sromero0889/model_clip_vit_b_32/raw/main/text/model.safetensors
 ```
